@@ -1,5 +1,4 @@
 def a(b,c):
     print(b*c)
-d=int(input())
-s=int(input())
-a(d,s)
+b,c=map(int,input().split())
+a(b,c)

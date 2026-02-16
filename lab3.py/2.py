@@ -7,6 +7,8 @@ def a(n):
             n//=3
         elif n%5==0:
             n//=5
+        else:
+            break
     if (n==1):
         print("Yes")
     else:

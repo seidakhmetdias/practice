@@ -4,3 +4,4 @@ def a(b,c):
     else:
         print(b-c)
 b,c=map(int,input().split())
+a(b,c)
