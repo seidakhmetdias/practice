@@ -4,4 +4,4 @@ def my_function(*args):
   print("Second argument:", args[1])
   print("All arguments:", args)
 
-my_function("Syrym", "Dias", "Elaman") 
+my_function("Amina", "seidakhmet", "Elaman") 

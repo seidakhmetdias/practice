@@ -4,4 +4,4 @@ def my_function(**myvar):
   print("Age:", myvar["age"])
   print("All data:", myvar)
 
-my_function(name = "Syrym", age = 18, city = "Kentau") 
+my_function(name = "Dias", age = 18, city = "ALA") 
